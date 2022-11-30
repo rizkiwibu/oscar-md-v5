@@ -43,7 +43,7 @@ item6.URL:https://instagram.com/ikykunnnn
 item6.X-ABLabel:Instagram Jarot
 item7.URL:http://Instagram.com/ikykunnnn
 item7.X-ABLabel: Instagram Alpi
-item1.TEL;waid=6285878836361:6285878836361@s.whatsapp.net
+item1.TEL;waid=6283817161861:6285878836361@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
